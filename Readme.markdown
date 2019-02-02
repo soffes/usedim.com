@@ -1,6 +1,6 @@
 # Dim
 
-The website for [Redacted](https://itunes.apple.com/app/dim/id1451422577?mt=12&uo=6&amp;at=1l3vmtU&ct=).
+The website for [Dim](https://itunes.apple.com/app/dim/id1451422577?mt=12&uo=6&amp;at=1l3vmtU&ct=).
 
 ## Running Locally
 

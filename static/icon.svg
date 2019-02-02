@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113" height="113" viewBox="0 0 113 113">
   <defs>
-    <linearGradient id="128-web-a" x1="50%" x2="50%" y1="0%" y2="97.189%">
+    <linearGradient id="icon-a" x1="50%" x2="50%" y1="0%" y2="97.189%">
       <stop offset="0%" stop-color="#262B3C"/>
       <stop offset="100%" stop-color="#1B1F2D"/>
     </linearGradient>
-    <circle id="128-web-b" cx="51.5" cy="51.5" r="51.5"/>
-    <linearGradient id="128-web-f" x1="50%" x2="50%" y1="0%" y2="100%">
+    <circle id="icon-b" cx="51.5" cy="51.5" r="51.5"/>
+    <linearGradient id="icon-f" x1="50%" x2="50%" y1="0%" y2="100%">
       <stop offset="0%" stop-color="#F8F9FF"/>
       <stop offset="100%" stop-color="#DEDFF3"/>
     </linearGradient>
-    <path id="128-web-e" d="M54.8759618,0.108884026 C31.3128814,1.8475557 12.6730769,24.1915908 12.6730769,51.5 C12.6730769,78.8084092 31.3128814,101.152444 54.8759618,102.891116 C53.7599498,102.963332 52.6342571,103 51.5,103 C23.0573354,103 0,79.9426646 0,51.5 C0,23.0573354 23.0573354,0 51.5,0 C52.6342571,0 53.7599498,0.0366683658 54.8759574,0.108884345 Z M102.99942,51.2361594 C102.999806,51.3240544 103,51.4120014 103,51.5 C103,51.5879986 102.999806,51.6759456 102.99942,51.7638406 C102.999779,51.6759366 103,51.5879941 103,51.5 C103,51.4120059 102.999779,51.3240634 102.999338,51.2361729 Z"/>
-    <filter id="128-web-d" width="102.9%" height="103.9%" x="-1.9%" y="-1%" filterUnits="objectBoundingBox">
+    <path id="icon-e" d="M54.8759618,0.108884026 C31.3128814,1.8475557 12.6730769,24.1915908 12.6730769,51.5 C12.6730769,78.8084092 31.3128814,101.152444 54.8759618,102.891116 C53.7599498,102.963332 52.6342571,103 51.5,103 C23.0573354,103 0,79.9426646 0,51.5 C0,23.0573354 23.0573354,0 51.5,0 C52.6342571,0 53.7599498,0.0366683658 54.8759574,0.108884345 Z M102.99942,51.2361594 C102.999806,51.3240544 103,51.4120014 103,51.5 C103,51.5879986 102.999806,51.6759456 102.99942,51.7638406 C102.999779,51.6759366 103,51.5879941 103,51.5 C103,51.4120059 102.999779,51.3240634 102.999338,51.2361729 Z"/>
+    <filter id="icon-d" width="102.9%" height="103.9%" x="-1.9%" y="-1%" filterUnits="objectBoundingBox">
       <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
       <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
       <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0"/>
@@ -18,16 +18,16 @@
   </defs>
   <g fill="none" fill-rule="evenodd">
     <g fill-rule="nonzero" stroke-linejoin="square">
-      <circle cx="64.5" cy="64.5" r="53.5" fill="url(#128-web-a)" fill-rule="evenodd" stroke="#EFF0FF" stroke-width="6"/>
-      <circle cx="64.5" cy="64.5" r="54" stroke="#5A4C8F" stroke-width="5"/>
+      <circle cx="56.5" cy="56.5" r="53.5" fill="url(#icon-a)" fill-rule="evenodd" stroke="#EFF0FF" stroke-width="6"/>
+      <circle cx="56.5" cy="56.5" r="54" stroke="#5A4C8F" stroke-width="5"/>
     </g>
-    <g transform="translate(13 13)">
-      <mask id="128-web-c" fill="#fff">
-        <use xlink:href="#128-web-b"/>
+    <g transform="translate(5 5)">
+      <mask id="icon-c" fill="#fff">
+        <use xlink:href="#icon-b"/>
       </mask>
-      <g fill-rule="nonzero" mask="url(#128-web-c)">
-        <use fill="#000" filter="url(#128-web-d)" xlink:href="#128-web-e"/>
-        <use fill="url(#128-web-f)" xlink:href="#128-web-e"/>
+      <g fill-rule="nonzero" mask="url(#icon-c)">
+        <use fill="#000" filter="url(#icon-d)" xlink:href="#icon-e"/>
+        <use fill="url(#icon-f)" xlink:href="#icon-e"/>
       </g>
     </g>
   </g>

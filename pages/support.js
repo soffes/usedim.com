@@ -22,7 +22,7 @@ export default () => (
 
     <Question>
       <SubSubHeading>Who makes Dim?</SubSubHeading>
-      <p>Redacted was designed and developed by <a href="http://nothingmagical.com" rel="external nofollow">Nothing Magical Inc</a>.</p>
+      <p>Dim was designed and developed by <a href="http://nothingmagical.com" rel="external nofollow">Nothing Magical Inc.</a> in California.</p>
     </Question>
 
     <Question>
