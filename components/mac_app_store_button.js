@@ -9,7 +9,7 @@ const MacAppStoreButton = (props) => {
 }
 
 MacAppStoreButton.defaultProps = {
-  "url": "https://itunes.apple.com/app/redacted/id1451422577?mt=12&uo=6&at=1l3vmtU&ct="
+  "url": "https://itunes.apple.com/app/dim/id1451422577?mt=12&uo=6&at=1l3vmtU&ct="
 }
 
 export default MacAppStoreButton
