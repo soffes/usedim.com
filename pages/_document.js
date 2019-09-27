@@ -14,7 +14,6 @@ export default class MyDocument extends Document {
       <html>
         <Head>
           <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-          <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/619254/777982/css/fonts.css" />
           <link rel="stylesheet" type="text/css" href="/static/base.css" />
           {this.props.styleTags}
           <link rel="icon" href="/static/favicon.ico" />
